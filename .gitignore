@@ -1,0 +1,10 @@
+.env
+*.env
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+cache/
+renders/
+.browser-profile/
